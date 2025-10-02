@@ -1,0 +1,6 @@
+POST http://localhost:3000/V6/MastersItemCategory/Insert/SchemaColumnsOnly
+Content-Type: application/json
+
+{
+  "ItemCategory": ""
+}

@@ -1,0 +1,6 @@
+POST http://localhost:3000/V6/BranOrdersKKD/GroupBy/Sum
+Content-Type: application/json
+
+[
+	{ColumnsName}
+]

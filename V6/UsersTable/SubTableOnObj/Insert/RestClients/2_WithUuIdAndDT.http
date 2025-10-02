@@ -1,0 +1,7 @@
+POST http://localhost:3000/V6/UsersTable/SubTableOnObj/Insert/WithUuIdAndDT/{RowIndex}/{KeyName}
+Content-Type: application/json
+
+{
+  "UserName": "",
+  "Password": ""
+}

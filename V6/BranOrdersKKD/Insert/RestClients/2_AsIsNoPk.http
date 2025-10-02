@@ -1,0 +1,10 @@
+POST http://localhost:3000/V6/BranOrdersKKD/Insert/AsIsNoPk
+Content-Type: application/json
+
+{
+  "ItemsInOrder": "",
+  "CustomerData": "",
+  "OrderData": "",
+  "AddOnData": "",
+  "CheckOutData": ""
+}

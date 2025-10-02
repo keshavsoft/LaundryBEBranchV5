@@ -1,0 +1,6 @@
+POST http://localhost:3000/V6/MastersItemService/Insert/ColumnExist
+Content-Type: application/json
+
+{
+  "ItemService": ""
+}

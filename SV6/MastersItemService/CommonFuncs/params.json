@@ -1,0 +1,1 @@
+{"TableName":"MastersItemService","DataPath":"KData/JSON/318","Columns":["ItemService"],"ColumnsWithSchema":[{"field":"ItemService","title":"ItemService","unique":true,"type":"text","isInput":true}]}

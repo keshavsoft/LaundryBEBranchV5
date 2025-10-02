@@ -1,0 +1,12 @@
+POST http://localhost:3000/V6/MastersItems/Insert/BulkAsIs
+Content-Type: application/json
+
+[
+  {
+    "Category": "",
+    "ItemName": "",
+    "Pcs": "",
+    "WashType": "",
+    "DryWashRate": ""
+  }
+]

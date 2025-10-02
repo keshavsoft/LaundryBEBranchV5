@@ -1,0 +1,1 @@
+DELETE http://localhost:3000/SV6/UsersTable/SubTableOnArray/Delete/WithPk/{RowPk}/{KeyName}/{Key}

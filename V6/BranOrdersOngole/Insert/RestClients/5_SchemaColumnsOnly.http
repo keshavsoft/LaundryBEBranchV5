@@ -1,0 +1,10 @@
+POST http://localhost:3000/V6/BranOrdersOngole/Insert/SchemaColumnsOnly
+Content-Type: application/json
+
+{
+  "ItemsInOrder": "",
+  "CustomerData": "",
+  "OrderData": "",
+  "AddOnData": "",
+  "CheckOutData": ""
+}

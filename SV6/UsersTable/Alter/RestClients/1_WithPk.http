@@ -1,0 +1,7 @@
+POST http://localhost:3000/SV6/UsersTable/Alter/WithPk/{pk}
+Content-Type: application/json
+
+{
+  "UserName": "",
+  "Password": ""
+}

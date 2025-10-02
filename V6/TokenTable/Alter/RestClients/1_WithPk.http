@@ -1,0 +1,6 @@
+POST http://localhost:3000/V6/TokenTable/Alter/WithPk/{pk}
+Content-Type: application/json
+
+{
+  "Secret": ""
+}

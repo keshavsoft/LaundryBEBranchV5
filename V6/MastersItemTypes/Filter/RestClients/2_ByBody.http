@@ -1,0 +1,4 @@
+POST http://localhost:3000/V6/MastersItemTypes/Filter/ByBody
+Content-Type: application/json
+
+{"inKey":"element.","inValue":""}

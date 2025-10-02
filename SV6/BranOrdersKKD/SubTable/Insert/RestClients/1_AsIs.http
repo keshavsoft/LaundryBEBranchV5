@@ -1,0 +1,10 @@
+POST http://localhost:3000/SV6/BranOrdersKKD/SubTable/Insert/AsIs/{RowIndex}/{KeyName}
+Content-Type: application/json
+
+{
+  "ItemsInOrder": "",
+  "CustomerData": "",
+  "OrderData": "",
+  "AddOnData": "",
+  "CheckOutData": ""
+}

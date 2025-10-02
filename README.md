@@ -309,3 +309,7 @@ schema altered
 - 1.0.9
 
 latest version added
+
+- 1.0.10
+
+V6 api added

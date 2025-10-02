@@ -1,0 +1,6 @@
+POST http://localhost:3000/SV6/MastersItemService/GroupBy/SingleColLength
+Content-Type: application/json
+
+[
+	{ColumnsName}
+]

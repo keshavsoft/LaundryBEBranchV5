@@ -1,0 +1,12 @@
+POST http://localhost:3000/V6/BranOrdersKKD/Insert/BulkAsIs
+Content-Type: application/json
+
+[
+  {
+    "ItemsInOrder": "",
+    "CustomerData": "",
+    "OrderData": "",
+    "AddOnData": "",
+    "CheckOutData": ""
+  }
+]

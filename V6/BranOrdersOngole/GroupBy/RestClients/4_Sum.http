@@ -1,0 +1,6 @@
+POST http://localhost:3000/V6/BranOrdersOngole/GroupBy/Sum
+Content-Type: application/json
+
+[
+	{ColumnsName}
+]

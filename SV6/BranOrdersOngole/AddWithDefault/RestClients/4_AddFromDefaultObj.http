@@ -1,0 +1,10 @@
+POST http://localhost:3000/SV6/BranOrdersOngole/AddWithDefault/AddFromDefaultObj
+Content-Type: application/json
+
+{
+  "ItemsInOrder": "",
+  "CustomerData": "",
+  "OrderData": "",
+  "AddOnData": "",
+  "CheckOutData": ""
+}
