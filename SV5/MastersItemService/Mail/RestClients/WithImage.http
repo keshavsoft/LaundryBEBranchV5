@@ -1,0 +1,6 @@
+POST http://localhost:3000/SV5/MastersItemService/Mail/WithImage
+Content-Type: application/json
+
+{
+  "ItemService": ""
+}

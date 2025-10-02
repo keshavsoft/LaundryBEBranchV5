@@ -1,0 +1,4 @@
+POST http://localhost:7318/binV4/BranOrdersKKD/Create/SendMail
+Content-Type: application/json
+
+{}

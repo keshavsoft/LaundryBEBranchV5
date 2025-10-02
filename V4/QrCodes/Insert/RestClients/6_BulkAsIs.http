@@ -1,0 +1,20 @@
+POST http://localhost:3000/V4/QrCodes/Insert/BulkAsIs
+Content-Type: application/json
+
+[
+  {
+    "GenerateReference": "",
+    "BookingData": "",
+    "OrderData": "",
+    "AddOnArray": "",
+    "Category": "",
+    "ItemName": "",
+    "ItemType": "",
+    "Rate": "",
+    "Pcs": "",
+    "Total": "",
+    "location": "",
+    "DeliveryDateTime": "",
+    "ItemService": ""
+  }
+]

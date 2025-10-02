@@ -1,0 +1,120 @@
+{
+    "tableName": "MastersCustomers",
+    "columns": [
+        {
+            "field": "MastersCustomers",
+            "title": "MastersCustomers",
+            "unique": true,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "Mobile",
+            "title": "Mobile",
+            "unique": true,
+            "type": "number",
+            "isInput": true
+        },
+        {
+            "field": "DOB",
+            "title": "DOB",
+            "unique": false,
+            "type": "date",
+            "isInput": true
+        },
+        {
+            "field": "GSTNumber",
+            "title": "GSTNumber",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "City",
+            "title": "City",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "Occupation",
+            "title": "Occupation",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "CompanyName",
+            "title": "CompanyName",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "BranchName",
+            "title": "BranchName",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        }
+    ],
+    "data": [],
+    "Vertical":  [
+        {
+            "field": "MastersCustomers",
+            "title": "MastersCustomers",
+            "unique": true,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "Mobile",
+            "title": "Mobile",
+            "unique": true,
+            "type": "number",
+            "isInput": true
+        },
+        {
+            "field": "DOB",
+            "title": "DOB",
+            "unique": false,
+            "type": "date",
+            "isInput": true
+        },
+        {
+            "field": "GSTNumber",
+            "title": "GSTNumber",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "City",
+            "title": "City",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "Occupation",
+            "title": "Occupation",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "CompanyName",
+            "title": "CompanyName",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "BranchName",
+            "title": "BranchName",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "UserName": "Keshav",
+    "Password": "KeshavSoft",
+    "isMailValidated": true,
+    "Mail": "nknnkumar@yahoo.com",
+    "DataPk": 318,
+    "UuId": "e741bacb-f4a3-46fc-8462-4400c61c3384"
+  },
+  {
+    "UserName": "KKD",
+    "Password": "KKD",
+    "Branch": "KKD",
+    "BranchMobile": "9848163021",
+    "UserMobile": "9848163021",
+    "isAdminValidated": true,
+    "isMailValidated": true,
+    "DataPk": 318,
+    "UuId": "92f88445-45c5-4ef0-8a8b-995771da7d12"
+  },
+  {
+    "UserName": "Ongole",
+    "Password": "Ongole",
+    "Branch": "Ongole",
+    "BranchMobile": "9848163021",
+    "UserMobile": "9848163021",
+    "isAdminValidated": true,
+    "isMailValidated": true,
+    "DataPk": 318,
+    "UuId": "92f88445-45c5-4ef0-8a8b-995771da7d12"
+  }
+]

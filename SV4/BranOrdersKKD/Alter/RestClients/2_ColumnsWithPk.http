@@ -1,0 +1,10 @@
+POST http://localhost:3000/SV4/BranOrdersKKD/Alter/ColumnsWithPk/{pk}
+Content-Type: application/json
+
+{
+  "ItemsInOrder": "",
+  "CustomerData": "",
+  "OrderData": "",
+  "AddOnData": "",
+  "CheckOutData": ""
+}

@@ -1,0 +1,1 @@
+{"TableName":"MastersItemCategory","DataPath":"KData/JSON/318","Columns":["ItemCategory"],"ColumnsWithSchema":[{"field":"ItemCategory","title":"ItemCategory","unique":true,"type":"text","isInput":true}]}

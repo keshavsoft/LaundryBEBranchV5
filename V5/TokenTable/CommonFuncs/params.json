@@ -1,0 +1,1 @@
+{"TableName":"TokenTable","DataPath":"KData/JSON/318","Columns":["Secret"],"ColumnsWithSchema":[{"field":"Secret","title":"Secret","unique":true,"type":"text","isInput":true,"isAutoFocus":true}]}

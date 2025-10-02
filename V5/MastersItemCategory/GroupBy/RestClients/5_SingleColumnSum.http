@@ -1,0 +1,6 @@
+POST http://localhost:3000/V5/MastersItemCategory/GroupBy/SingleColumnSum/{GroupByColumnName}
+Content-Type: application/json
+
+[
+	"SumColumnName"
+]

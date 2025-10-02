@@ -1,0 +1,18 @@
+POST http://localhost:3000/V4/QrCodes/SubTableOnArray/Insert/WithUuIdAndDT/{RowIndex}/{KeyName}
+Content-Type: application/json
+
+{
+  "GenerateReference": "",
+  "BookingData": "",
+  "OrderData": "",
+  "AddOnArray": "",
+  "Category": "",
+  "ItemName": "",
+  "ItemType": "",
+  "Rate": "",
+  "Pcs": "",
+  "Total": "",
+  "location": "",
+  "DeliveryDateTime": "",
+  "ItemService": ""
+}

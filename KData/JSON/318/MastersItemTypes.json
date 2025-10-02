@@ -1,0 +1,686 @@
+[
+  {
+    "ItemType": "SHIRTE",
+    "UuId": 1,
+    "pk": 1,
+    "DateTime": "2025-01-05T16:46:31.978Z"
+  },
+  {
+    "ItemType": "SILK SHIRT",
+    "UuId": 2,
+    "pk": 2,
+    "DateTime": "2025-01-06T05:27:44.529Z"
+  },
+  {
+    "ItemType": "TROUSER",
+    "UuId": 3,
+    "pk": 3,
+    "DateTime": "2025-01-06T05:28:22.938Z"
+  },
+  {
+    "ItemType": "JEAN",
+    "UuId": 4,
+    "pk": 4,
+    "DateTime": "2025-01-06T05:28:37.867Z"
+  },
+  {
+    "ItemType": "T SHIRT",
+    "UuId": 5,
+    "pk": 5,
+    "DateTime": "2025-01-06T05:28:56.592Z"
+  },
+  {
+    "ItemType": "KURTHA (Normal)",
+    "UuId": 6,
+    "pk": 6,
+    "DateTime": "2025-01-06T05:29:14.539Z"
+  },
+  {
+    "ItemType": "KURTHA (WORK)",
+    "UuId": 7,
+    "pk": 7,
+    "DateTime": "2025-01-06T05:29:37.110Z"
+  },
+  {
+    "ItemType": "KURTHA (SILK)",
+    "UuId": 8,
+    "pk": 8,
+    "DateTime": "2025-01-06T05:29:55.094Z"
+  },
+  {
+    "ItemType": "PYJAMA",
+    "UuId": 9,
+    "pk": 9,
+    "DateTime": "2025-01-06T05:30:10.493Z"
+  },
+  {
+    "ItemType": "SILK DOTHI",
+    "UuId": 10,
+    "pk": 10,
+    "DateTime": "2025-01-06T05:30:31.399Z"
+  },
+  {
+    "ItemType": "COTTON DOTHI",
+    "UuId": 11,
+    "pk": 11,
+    "DateTime": "2025-01-06T05:31:22.574Z"
+  },
+  {
+    "ItemType": "STICHING DOTHI",
+    "UuId": 12,
+    "pk": 12,
+    "DateTime": "2025-01-06T05:31:36.609Z"
+  },
+  {
+    "ItemType": "KANDUVA",
+    "UuId": 13,
+    "pk": 13,
+    "DateTime": "2025-01-06T05:31:52.485Z"
+  },
+  {
+    "ItemType": "SHORT",
+    "UuId": 14,
+    "pk": 14,
+    "DateTime": "2025-01-06T05:32:04.490Z"
+  },
+  {
+    "ItemType": "VEST",
+    "UuId": 15,
+    "pk": 15,
+    "DateTime": "2025-01-06T05:32:22.748Z"
+  },
+  {
+    "ItemType": "BLAZER",
+    "UuId": 16,
+    "pk": 16,
+    "DateTime": "2025-01-06T05:32:45.389Z"
+  },
+  {
+    "ItemType": "JACKET",
+    "UuId": 17,
+    "pk": 17,
+    "DateTime": "2025-01-06T05:33:13.877Z"
+  },
+  {
+    "ItemType": "JERKIN",
+    "UuId": 18,
+    "pk": 18,
+    "DateTime": "2025-01-06T05:33:37.420Z"
+  },
+  {
+    "ItemType": "SWEATER",
+    "UuId": 19,
+    "pk": 19,
+    "DateTime": "2025-01-06T05:33:52.744Z"
+  },
+  {
+    "ItemType": "TRACK PANT",
+    "UuId": 20,
+    "pk": 20,
+    "DateTime": "2025-01-06T05:34:07.344Z"
+  },
+  {
+    "ItemType": "LONG COAT",
+    "UuId": 21,
+    "pk": 21,
+    "DateTime": "2025-01-06T05:34:34.294Z"
+  },
+  {
+    "ItemType": "WAIST COAT",
+    "UuId": 22,
+    "pk": 22,
+    "DateTime": "2025-01-06T05:34:51.832Z"
+  },
+  {
+    "ItemType": "APRON",
+    "UuId": 23,
+    "pk": 23,
+    "DateTime": "2025-01-06T05:35:05.542Z"
+  },
+  {
+    "ItemType": "LUNGI",
+    "UuId": 24,
+    "pk": 24,
+    "DateTime": "2025-01-06T05:35:40.359Z"
+  },
+  {
+    "ItemType": "BATH ROBE",
+    "UuId": 25,
+    "pk": 25,
+    "DateTime": "2025-01-06T05:36:05.489Z"
+  },
+  {
+    "ItemType": "WOOLEN COAT",
+    "UuId": 26,
+    "pk": 26,
+    "DateTime": "2025-01-06T05:36:30.637Z"
+  },
+  {
+    "ItemType": "TIE",
+    "UuId": 27,
+    "pk": 27,
+    "DateTime": "2025-01-06T05:36:55.429Z"
+  },
+  {
+    "ItemType": "SHERWANI(NORMAL)",
+    "UuId": 28,
+    "pk": 28,
+    "DateTime": "2025-01-06T05:37:09.320Z"
+  },
+  {
+    "ItemType": "SHERWANI (WORK)",
+    "UuId": 29,
+    "pk": 29,
+    "DateTime": "2025-01-06T05:37:25.260Z"
+  },
+  {
+    "ItemType": "DUPATTA",
+    "UuId": 30,
+    "pk": 30,
+    "DateTime": "2025-01-06T05:37:42.329Z"
+  },
+  {
+    "ItemType": "SHALL",
+    "UuId": 31,
+    "pk": 31,
+    "DateTime": "2025-01-06T05:37:54.679Z"
+  },
+  {
+    "ItemType": "HAND KARCHIF",
+    "UuId": 32,
+    "pk": 32,
+    "DateTime": "2025-01-06T05:38:08.341Z"
+  },
+  {
+    "ItemType": "UNDER WEAR",
+    "UuId": 33,
+    "pk": 33,
+    "DateTime": "2025-01-06T05:38:29.548Z"
+  },
+  {
+    "ItemType": "TOP (NORMAL)",
+    "UuId": 34,
+    "pk": 34,
+    "DateTime": "2025-01-06T05:55:47.989Z"
+  },
+  {
+    "ItemType": "NET TOP",
+    "UuId": 35,
+    "pk": 35,
+    "DateTime": "2025-01-06T05:56:44.876Z"
+  },
+  {
+    "ItemType": "LONG TOP",
+    "UuId": 36,
+    "pk": 36,
+    "DateTime": "2025-01-06T05:56:56.367Z"
+  },
+  {
+    "ItemType": "WORK TOP",
+    "UuId": 37,
+    "pk": 37,
+    "DateTime": "2025-01-06T05:57:07.080Z"
+  },
+  {
+    "ItemType": "HEAVY WORK TOP",
+    "UuId": 38,
+    "pk": 38,
+    "DateTime": "2025-01-06T05:57:24.783Z"
+  },
+  {
+    "ItemType": "NIGHTY",
+    "UuId": 39,
+    "pk": 39,
+    "DateTime": "2025-01-06T06:00:27.090Z"
+  },
+  {
+    "ItemType": "BOTTOM",
+    "UuId": 40,
+    "pk": 40,
+    "DateTime": "2025-01-06T06:00:37.670Z"
+  },
+  {
+    "ItemType": "LAHANGA (NORMAL)",
+    "UuId": 41,
+    "pk": 41,
+    "DateTime": "2025-01-06T06:00:57.821Z"
+  },
+  {
+    "ItemType": "LAHANGA (WORK)",
+    "UuId": 42,
+    "pk": 42,
+    "DateTime": "2025-01-06T06:01:08.893Z"
+  },
+  {
+    "ItemType": "LAHANGA (SMALL)",
+    "UuId": 43,
+    "pk": 43,
+    "DateTime": "2025-01-06T06:01:17.637Z"
+  },
+  {
+    "ItemType": "FROCK (SMALL)",
+    "UuId": 44,
+    "pk": 44,
+    "DateTime": "2025-01-06T06:01:27.556Z"
+  },
+  {
+    "ItemType": "FROCK (BIG)",
+    "UuId": 45,
+    "pk": 45,
+    "DateTime": "2025-01-06T06:01:40.815Z"
+  },
+  {
+    "ItemType": "WEDDING FROCK",
+    "UuId": 46,
+    "pk": 46,
+    "DateTime": "2025-01-06T06:01:49.822Z"
+  },
+  {
+    "ItemType": "SKIRT (SMALL)",
+    "UuId": 47,
+    "pk": 47,
+    "DateTime": "2025-01-06T06:01:59.661Z"
+  },
+  {
+    "ItemType": "SKIRT( BIG)",
+    "UuId": 48,
+    "pk": 48,
+    "DateTime": "2025-01-06T06:02:08.942Z"
+  },
+  {
+    "ItemType": "SAREE",
+    "UuId": 49,
+    "pk": 49,
+    "DateTime": "2025-01-06T06:02:16.517Z"
+  },
+  {
+    "ItemType": "PATTU SAREE",
+    "UuId": 50,
+    "pk": 50,
+    "DateTime": "2025-01-06T06:02:25.718Z"
+  },
+  {
+    "ItemType": "HEAVY WORK SAREE",
+    "UuId": 51,
+    "pk": 51,
+    "DateTime": "2025-01-06T06:02:37.222Z"
+  },
+  {
+    "ItemType": "JARY SAREE",
+    "UuId": 52,
+    "pk": 52,
+    "DateTime": "2025-01-06T06:02:45.908Z"
+  },
+  {
+    "ItemType": "NET SAREE",
+    "UuId": 53,
+    "pk": 53,
+    "DateTime": "2025-01-06T06:03:01.309Z"
+  },
+  {
+    "ItemType": "BIG JARY SAREE",
+    "UuId": 54,
+    "pk": 54,
+    "DateTime": "2025-01-06T06:03:11.052Z"
+  },
+  {
+    "ItemType": "BLOUSE",
+    "UuId": 55,
+    "pk": 55,
+    "DateTime": "2025-01-06T06:03:42.653Z"
+  },
+  {
+    "ItemType": "LONG BLOUSE",
+    "UuId": 56,
+    "pk": 56,
+    "DateTime": "2025-01-06T06:04:15.256Z"
+  },
+  {
+    "ItemType": "WORK BLOUSE",
+    "UuId": 57,
+    "pk": 57,
+    "DateTime": "2025-01-06T06:04:28.779Z"
+  },
+  {
+    "ItemType": "PETTY COAT",
+    "UuId": 58,
+    "pk": 58,
+    "DateTime": "2025-01-06T06:04:40.365Z"
+  },
+  {
+    "ItemType": "LADIES COAT",
+    "UuId": 59,
+    "pk": 59,
+    "DateTime": "2025-01-06T06:05:05.783Z"
+  },
+  {
+    "ItemType": "SCARF",
+    "UuId": 60,
+    "pk": 60,
+    "DateTime": "2025-01-06T06:05:30.260Z"
+  },
+  {
+    "ItemType": "GAGRA",
+    "UuId": 61,
+    "pk": 61,
+    "DateTime": "2025-01-06T06:05:43.829Z"
+  },
+  {
+    "ItemType": "CHOLI",
+    "UuId": 62,
+    "pk": 62,
+    "DateTime": "2025-01-06T06:05:55.414Z"
+  },
+  {
+    "ItemType": "NIGHT DRESS",
+    "UuId": 63,
+    "pk": 63,
+    "DateTime": "2025-01-06T06:06:06.420Z"
+  },
+  {
+    "ItemType": "GOWN",
+    "UuId": 64,
+    "pk": 64,
+    "DateTime": "2025-01-06T06:06:21.628Z"
+  },
+  {
+    "ItemType": "SALWAR",
+    "UuId": 65,
+    "pk": 65,
+    "DateTime": "2025-01-06T06:06:33.469Z"
+  },
+  {
+    "ItemType": "BATH TOWEL",
+    "UuId": 66,
+    "pk": 66,
+    "DateTime": "2025-01-06T06:08:15.496Z"
+  },
+  {
+    "ItemType": "BED SHEET (SINGLE)",
+    "UuId": 67,
+    "pk": 67,
+    "DateTime": "2025-01-06T06:08:31.750Z"
+  },
+  {
+    "ItemType": "BED SHEET (DOUBLE)",
+    "UuId": 68,
+    "pk": 68,
+    "DateTime": "2025-01-06T06:08:46.945Z"
+  },
+  {
+    "ItemType": "BLANKET (SINGLE)",
+    "UuId": 69,
+    "pk": 69,
+    "DateTime": "2025-01-06T06:08:58.911Z"
+  },
+  {
+    "ItemType": "BLANKET (DOUBLE)",
+    "UuId": 70,
+    "pk": 70,
+    "DateTime": "2025-01-06T06:09:16.001Z"
+  },
+  {
+    "ItemType": "QUILT (SINGLE)",
+    "UuId": 71,
+    "pk": 71,
+    "DateTime": "2025-01-06T06:09:27.662Z"
+  },
+  {
+    "ItemType": "QUILT (DOUBLE)",
+    "UuId": 72,
+    "pk": 72,
+    "DateTime": "2025-01-06T06:09:37.943Z"
+  },
+  {
+    "ItemType": "PILLOW  COVERS",
+    "UuId": 73,
+    "pk": 73,
+    "DateTime": "2025-01-06T06:09:49.977Z"
+  },
+  {
+    "ItemType": "NAPKIN",
+    "UuId": 74,
+    "pk": 74,
+    "DateTime": "2025-01-06T06:10:00.341Z"
+  },
+  {
+    "ItemType": "FACE TOWEL",
+    "UuId": 75,
+    "pk": 75,
+    "DateTime": "2025-01-06T06:10:11.320Z"
+  },
+  {
+    "ItemType": "BATH MAT",
+    "UuId": 76,
+    "pk": 76,
+    "DateTime": "2025-01-06T06:10:22.200Z"
+  },
+  {
+    "ItemType": "HAND GLOVES",
+    "UuId": 77,
+    "pk": 77,
+    "DateTime": "2025-01-06T06:10:36.945Z"
+  },
+  {
+    "ItemType": "CURTAIN(SINGLE)",
+    "UuId": 78,
+    "pk": 78,
+    "DateTime": "2025-01-06T06:10:50.342Z"
+  },
+  {
+    "ItemType": "CURTAIN(MEDIUM)",
+    "UuId": 79,
+    "pk": 79,
+    "DateTime": "2025-01-06T06:11:02.555Z"
+  },
+  {
+    "ItemType": "CURTAIN (BIG)",
+    "UuId": 80,
+    "pk": 80,
+    "DateTime": "2025-01-06T06:11:14.350Z"
+  },
+  {
+    "ItemType": "DOOR MAT",
+    "UuId": 81,
+    "pk": 81,
+    "DateTime": "2025-01-06T06:11:31.149Z"
+  },
+  {
+    "ItemType": "CHAIR COVERS",
+    "UuId": 82,
+    "pk": 82,
+    "DateTime": "2025-01-06T06:11:45.018Z"
+  },
+  {
+    "ItemType": "SOFA COVERS(SINGLE)",
+    "UuId": 83,
+    "pk": 83,
+    "DateTime": "2025-01-06T06:12:01.255Z"
+  },
+  {
+    "ItemType": "SOFA COVERS(DOUBLE)",
+    "UuId": 84,
+    "pk": 84,
+    "DateTime": "2025-01-06T06:12:10.599Z"
+  },
+  {
+    "ItemType": "BED COVER(SINGLE)",
+    "UuId": 85,
+    "pk": 85,
+    "DateTime": "2025-01-06T06:12:26.895Z"
+  },
+  {
+    "ItemType": "BED COVER(DOUBLE)",
+    "UuId": 86,
+    "pk": 86,
+    "DateTime": "2025-01-06T06:12:35.670Z"
+  },
+  {
+    "ItemType": "CARPET (SINGLE)",
+    "UuId": 87,
+    "pk": 87,
+    "DateTime": "2025-01-06T06:12:47.855Z"
+  },
+  {
+    "ItemType": "CARPET (MEDIUM)",
+    "UuId": 88,
+    "pk": 88,
+    "DateTime": "2025-01-06T06:12:56.718Z"
+  },
+  {
+    "ItemType": "CARPET (LARGE)",
+    "UuId": 89,
+    "pk": 89,
+    "DateTime": "2025-01-06T06:13:07.231Z"
+  },
+  {
+    "ItemType": "PILLOWS",
+    "UuId": 90,
+    "pk": 90,
+    "DateTime": "2025-01-06T06:13:15.823Z"
+  },
+  {
+    "ItemType": "TABLE CLOTH",
+    "UuId": 91,
+    "pk": 91,
+    "DateTime": "2025-01-06T06:13:24.136Z"
+  },
+  {
+    "ItemType": "BAGS(SMALL)",
+    "UuId": 92,
+    "pk": 92,
+    "DateTime": "2025-01-06T06:13:36.595Z"
+  },
+  {
+    "ItemType": "BAG (BIG)",
+    "UuId": 93,
+    "pk": 93,
+    "DateTime": "2025-01-06T06:13:45.454Z"
+  },
+  {
+    "ItemType": "CAPS",
+    "UuId": 94,
+    "pk": 94,
+    "DateTime": "2025-01-06T06:13:54.391Z"
+  },
+  {
+    "ItemType": "TEDDY BEAR (SMALL)",
+    "UuId": 95,
+    "pk": 95,
+    "DateTime": "2025-01-06T06:14:04.055Z"
+  },
+  {
+    "ItemType": "TEDDY BEAR (MEDIUM)",
+    "UuId": 96,
+    "pk": 96,
+    "DateTime": "2025-01-06T06:14:12.392Z"
+  },
+  {
+    "ItemType": "TEDDY BEAR (BIG)",
+    "UuId": 97,
+    "pk": 97,
+    "DateTime": "2025-01-06T06:14:24.279Z"
+  },
+  {
+    "ItemType": "DOLLS",
+    "UuId": 98,
+    "pk": 98,
+    "DateTime": "2025-01-06T06:14:38.124Z"
+  },
+  {
+    "ItemType": "KURTHA",
+    "UuId": 99,
+    "pk": 99,
+    "DateTime": "2025-01-06T06:21:59.074Z"
+  },
+  {
+    "ItemType": "PYZAMA",
+    "UuId": 100,
+    "pk": 100,
+    "DateTime": "2025-01-06T06:22:09.601Z"
+  },
+  {
+    "ItemType": "SAFARI SUIT (2 PCS)",
+    "UuId": 101,
+    "pk": 101,
+    "DateTime": "2025-01-06T06:22:56.774Z"
+  },
+  {
+    "ItemType": "SHERWANI",
+    "UuId": 102,
+    "pk": 102,
+    "DateTime": "2025-01-06T06:23:12.213Z"
+  },
+  {
+    "ItemType": "WORK SHERWANI",
+    "UuId": 103,
+    "pk": 103,
+    "DateTime": "2025-01-06T06:23:25.890Z"
+  },
+  {
+    "ItemType": "SHIRT OR T SHIRT",
+    "UuId": 104,
+    "pk": 104,
+    "DateTime": "2025-01-07T05:54:40.071Z"
+  },
+  {
+    "ItemType": "FROCK",
+    "UuId": 105,
+    "pk": 105,
+    "DateTime": "2025-01-07T06:09:25.072Z"
+  },
+  {
+    "ItemType": "SKIRT",
+    "UuId": 106,
+    "pk": 106,
+    "DateTime": "2025-01-07T06:14:17.463Z"
+  },
+  {
+    "ItemType": "CHILD GAGRA CHOLI 3",
+    "UuId": 107,
+    "pk": 107,
+    "DateTime": "2025-01-07T06:14:54.555Z"
+  },
+  {
+    "ItemType": "PATTU LANGA",
+    "UuId": 108,
+    "pk": 108,
+    "DateTime": "2025-01-07T06:18:50.744Z"
+  },
+  {
+    "ItemType": "PUNJABI DRESS (3PCS)",
+    "UuId": 109,
+    "pk": 109,
+    "DateTime": "2025-01-07T06:23:14.618Z"
+  },
+  {
+    "ItemType": "FROCK (MEDIUM)",
+    "UuId": 110,
+    "pk": 110,
+    "DateTime": "2025-01-07T11:17:10.441Z"
+  },
+  {
+    "ItemType": "SILK SAREE",
+    "UuId": 111,
+    "pk": 111,
+    "DateTime": "2025-02-06T12:31:04.907Z"
+  },
+  {
+    "ItemType": "HOODDY",
+    "UuId": 112,
+    "pk": 112,
+    "DateTime": "2025-02-20T10:36:36.267Z"
+  },
+  {
+    "ItemType": "SAREE NORMAL",
+    "UuId": 113,
+    "pk": 113,
+    "DateTime": "2025-04-10T10:33:15.844Z"
+  },
+  {
+    "ItemType": "lungi",
+    "UuId": 114,
+    "pk": 114,
+    "DateTime": "2025-08-25T04:47:00.381Z"
+  }
+]

@@ -1,0 +1,7 @@
+POST http://localhost:3000/SV5/UsersTable/Mail/WithImage
+Content-Type: application/json
+
+{
+  "UserName": "",
+  "Password": ""
+}

@@ -1,0 +1,1 @@
+GET http://localhost:3000/SV4/BranOrdersKKD/Read/SingleColumn/{Column name}

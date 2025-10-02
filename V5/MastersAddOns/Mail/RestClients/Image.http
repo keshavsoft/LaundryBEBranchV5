@@ -1,0 +1,7 @@
+POST http://localhost:3000/V5/MastersAddOns/Mail/Image
+Content-Type: application/json
+
+{
+  "AddOnService": "",
+  "AddOnRate": ""
+}

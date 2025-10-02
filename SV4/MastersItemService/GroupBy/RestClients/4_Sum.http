@@ -1,0 +1,6 @@
+POST http://localhost:3000/SV4/MastersItemService/GroupBy/Sum
+Content-Type: application/json
+
+[
+	{ColumnsName}
+]

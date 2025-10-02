@@ -1,0 +1,7 @@
+POST http://localhost:3000/V5/MastersAddOns/InsertWithChecks/ForUnique
+Content-Type: application/json
+
+{
+  "AddOnService": "",
+  "AddOnRate": ""
+}

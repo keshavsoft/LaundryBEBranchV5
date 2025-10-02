@@ -1,0 +1,1 @@
+{"tableName":"MastersItemService.json","ColumnsSchema":{"ItemService":{"type":"STRING","unique":true,"allowNull":false}}}

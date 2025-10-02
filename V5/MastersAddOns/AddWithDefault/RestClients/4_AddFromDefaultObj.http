@@ -1,0 +1,7 @@
+POST http://localhost:3000/V5/MastersAddOns/AddWithDefault/AddFromDefaultObj
+Content-Type: application/json
+
+{
+  "AddOnService": "",
+  "AddOnRate": ""
+}

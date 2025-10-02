@@ -1,0 +1,13 @@
+POST http://localhost:3000/SV5/MastersCustomers/Insert/AsIsNoPk
+Content-Type: application/json
+
+{
+  "MastersCustomers": "",
+  "Mobile": "",
+  "DOB": "",
+  "GSTNumber": "",
+  "City": "",
+  "Occupation": "",
+  "CompanyName": "",
+  "BranchName": ""
+}

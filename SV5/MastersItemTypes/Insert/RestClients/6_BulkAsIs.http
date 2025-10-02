@@ -1,0 +1,8 @@
+POST http://localhost:3000/SV5/MastersItemTypes/Insert/BulkAsIs
+Content-Type: application/json
+
+[
+  {
+    "ItemType": ""
+  }
+]

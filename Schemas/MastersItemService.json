@@ -1,0 +1,22 @@
+{
+    "tableName": "MastersItemService",
+    "columns": [
+        {
+            "field": "ItemService",
+            "title": "ItemService",
+            "unique": true,
+            "type": "text",
+            "isInput": true
+        }
+    ],
+    "data": [],
+    "Vertical": [
+        {
+            "field": "ItemService",
+            "title": "ItemService",
+            "unique": true,
+            "type": "text",
+            "isInput": true
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+POST http://localhost:3000/V5/MastersCustomers/Insert/BulkAsIs
+Content-Type: application/json
+
+[
+  {
+    "MastersCustomers": "",
+    "Mobile": "",
+    "DOB": "",
+    "GSTNumber": "",
+    "City": "",
+    "Occupation": "",
+    "CompanyName": "",
+    "BranchName": ""
+  }
+]

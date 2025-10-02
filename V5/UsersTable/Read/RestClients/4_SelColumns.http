@@ -1,0 +1,4 @@
+POST http://localhost:3000/V5/UsersTable/Read/SelColumns
+Content-Type: application/json
+
+[ "exampleKey"]

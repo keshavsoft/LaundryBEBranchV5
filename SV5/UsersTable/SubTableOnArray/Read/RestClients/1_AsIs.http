@@ -1,0 +1,1 @@
+GET http://localhost:3000/SV5/UsersTable/SubTableOnArray/Read/AsIs/{RowIndex}/{KeyName}

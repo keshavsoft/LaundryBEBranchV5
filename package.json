@@ -1,0 +1,28 @@
+{
+  "name": "LaundryBEBranchV4",
+  "version": "1.0.9",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "body-parser": "^2.2.0",
+    "cookie-parser": "^1.4.7",
+    "directory-tree": "^3.5.2",
+    "dotenv": "17.2.0",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.1",
+    "jsonwebtoken": "^9.0.2",
+    "lowdb": "^7.0.1",
+    "mongodb": "^6.18.0",
+    "multer": "^2.0.2",
+    "nodemailer": "^7.0.6",
+    "sequelize": "^6.37.7"
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "tableName": "MastersItemTypes",
+    "columns": [
+        {
+            "field": "ItemType",
+            "title": "ItemType",
+            "unique": true,
+            "type": "text",
+            "isInput": true
+        }
+    ],
+    "data": [],
+    "Vertical": [
+        {
+            "field": "ItemType",
+            "title": "ItemType",
+            "unique": true,
+            "type": "text",
+            "isInput": true
+        }
+    ]
+}

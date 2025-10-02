@@ -1,0 +1,6 @@
+POST http://localhost:3000/V5/MastersItemService/Alter/WithPk/{pk}
+Content-Type: application/json
+
+{
+  "ItemService": ""
+}

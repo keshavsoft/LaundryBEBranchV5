@@ -1,0 +1,6 @@
+POST http://localhost:3000/V5/TokenTable/SubTable/Insert/AsIs/{RowIndex}/{KeyName}
+Content-Type: application/json
+
+{
+  "Secret": ""
+}

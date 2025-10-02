@@ -1,0 +1,7 @@
+POST http://localhost:3000/V4/UsersTable/SubTableOnObj/Insert/AsIs/{RowIndex}/{KeyName}
+Content-Type: application/json
+
+{
+  "UserName": "",
+  "Password": ""
+}

@@ -1,0 +1,6 @@
+POST http://localhost:3000/V4/MastersItemTypes/Insert/AsIsAndTS
+Content-Type: application/json
+
+{
+  "ItemType": ""
+}

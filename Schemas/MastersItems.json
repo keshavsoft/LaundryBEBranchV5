@@ -1,0 +1,80 @@
+{
+    "tableName": "MastersItems",
+    "columns": [
+        {
+            "field": "Category",
+            "title": "Category",
+            "unique": true,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "ItemName",
+            "title": "ItemName",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "Pcs",
+            "title": "Pcs",
+            "unique": true,
+            "type": "number",
+            "isInput": true
+        },
+        {
+            "field": "WashType",
+            "title": "WashType",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "DryWashRate",
+            "title": "DryWashRate",
+            "unique": false,
+            "type": "number",
+            "isInput": true
+        }
+        
+    ],
+    "data": [],
+    "Vertical": [
+        {
+            "field": "Category",
+            "title": "Category",
+            "unique": true,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "ItemName",
+            "title": "ItemName",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "Pcs",
+            "title": "Pcs",
+            "unique": true,
+            "type": "number",
+            "isInput": true
+        },
+        {
+            "field": "WashType",
+            "title": "WashType",
+            "unique": false,
+            "type": "text",
+            "isInput": true
+        },
+        {
+            "field": "DryWashRate",
+            "title": "DryWashRate",
+            "unique": false,
+            "type": "number",
+            "isInput": true
+        }
+        
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "Tables": [
+        "BranOrdersKKD",
+        "BranOrdersOngole",
+        "TokenTable",
+        "UsersTable",
+        "BranOrdersKKD",
+        "MastersAddOns",
+        "MastersCustomers",
+        "MastersItemCategory",
+        "MastersItems",
+        "MastersItemService",
+        "MastersItemTypes"
+    ]
+}

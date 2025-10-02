@@ -1,0 +1,4 @@
+POST http://localhost:3000/V5/MastersItemService/Read/SelColumns
+Content-Type: application/json
+
+[ "exampleKey"]

@@ -1,0 +1,6 @@
+POST http://localhost:3000/SV5/MastersItemTypes/SubTableOnObj/Insert/WithUuIdAndDT/{RowIndex}/{KeyName}
+Content-Type: application/json
+
+{
+  "ItemType": ""
+}

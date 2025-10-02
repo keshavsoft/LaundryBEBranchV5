@@ -1,0 +1,376 @@
+[
+  {
+    "AddOnService": "smooth",
+    "AddOnRate": "10",
+    "UuId": 6,
+    "pk": 6,
+    "DateTime": "2025-01-07T12:26:25.588Z"
+  },
+  {
+    "AddOnService": "CLOUR FADE",
+    "AddOnRate": "0",
+    "UuId": 7,
+    "pk": 7,
+    "DateTime": "2025-01-07T12:26:40.627Z"
+  },
+  {
+    "AddOnService": "FADED",
+    "AddOnRate": "0",
+    "UuId": 8,
+    "pk": 8,
+    "DateTime": "2025-01-07T12:27:00.701Z"
+  },
+  {
+    "AddOnService": "HEAVY STAIN",
+    "AddOnRate": "200",
+    "UuId": 9,
+    "pk": 9,
+    "DateTime": "2025-01-07T12:27:40.757Z"
+  },
+  {
+    "AddOnService": "L STR",
+    "AddOnRate": "0",
+    "UuId": 10,
+    "pk": 10,
+    "DateTime": "2025-01-07T12:27:53.001Z"
+  },
+  {
+    "AddOnService": "M STR",
+    "AddOnRate": "0",
+    "UuId": 11,
+    "pk": 11,
+    "DateTime": "2025-01-07T12:28:01.030Z"
+  },
+  {
+    "AddOnService": "H STR",
+    "AddOnRate": "10",
+    "UuId": 12,
+    "pk": 12,
+    "DateTime": "2025-01-07T12:28:18.560Z"
+  },
+  {
+    "AddOnService": "COFFE STAINS",
+    "AddOnRate": "100",
+    "UuId": 13,
+    "pk": 13,
+    "DateTime": "2025-01-07T12:29:16.906Z"
+  },
+  {
+    "AddOnService": "TEA STAINS",
+    "AddOnRate": "100",
+    "UuId": 14,
+    "pk": 14,
+    "DateTime": "2025-01-07T12:30:19.847Z"
+  },
+  {
+    "AddOnService": "STARTCH STAINS",
+    "AddOnRate": "0",
+    "UuId": 15,
+    "pk": 15,
+    "DateTime": "2025-01-07T12:31:33.631Z"
+  },
+  {
+    "AddOnService": "GREEZE STAINS",
+    "AddOnRate": "150",
+    "UuId": 16,
+    "pk": 16,
+    "DateTime": "2025-01-07T12:32:05.609Z"
+  },
+  {
+    "AddOnService": "CLOUR SPREAD",
+    "AddOnRate": "150",
+    "UuId": 17,
+    "pk": 17,
+    "DateTime": "2025-01-07T12:32:36.001Z"
+  },
+  {
+    "AddOnService": "INK STAINS",
+    "AddOnRate": "150",
+    "UuId": 18,
+    "pk": 18,
+    "DateTime": "2025-01-07T12:33:07.778Z"
+  },
+  {
+    "AddOnService": "ANY DAMAGE NO GUARANTEE",
+    "AddOnRate": "350",
+    "UuId": 19,
+    "pk": 19,
+    "DateTime": "2025-01-07T12:33:41.918Z"
+  },
+  {
+    "AddOnService": "NO CLOUR GURANTEE",
+    "AddOnRate": "0",
+    "UuId": 20,
+    "pk": 20,
+    "DateTime": "2025-01-07T12:34:33.667Z"
+  },
+  {
+    "AddOnService": "ANY CLOUR CHANGED",
+    "AddOnRate": "0",
+    "UuId": 21,
+    "pk": 21,
+    "DateTime": "2025-01-07T12:35:09.032Z"
+  },
+  {
+    "AddOnService": "ANY DAMAGE",
+    "AddOnRate": "0",
+    "UuId": 22,
+    "pk": 22,
+    "DateTime": "2025-01-07T12:35:58.724Z"
+  },
+  {
+    "AddOnService": "BLACK STAINS",
+    "AddOnRate": "1",
+    "UuId": 23,
+    "pk": 23,
+    "DateTime": "2025-01-07T12:36:38.276Z"
+  },
+  {
+    "AddOnService": "JARY BLACK",
+    "AddOnRate": "0",
+    "UuId": 24,
+    "pk": 24,
+    "DateTime": "2025-01-07T12:37:42.013Z"
+  },
+  {
+    "AddOnService": "CAKE STAINS",
+    "AddOnRate": "0",
+    "UuId": 25,
+    "pk": 25,
+    "DateTime": "2025-01-07T12:38:01.211Z"
+  },
+  {
+    "AddOnService": "PAINT STAINS",
+    "AddOnRate": "0",
+    "UuId": 26,
+    "pk": 26,
+    "DateTime": "2025-01-07T12:38:33.737Z"
+  },
+  {
+    "AddOnService": "STRIGHT FOLDING",
+    "AddOnRate": "0",
+    "UuId": 27,
+    "pk": 27,
+    "DateTime": "2025-01-07T12:39:24.170Z"
+  },
+  {
+    "AddOnService": "SINGLE FOLDING",
+    "AddOnRate": "0",
+    "UuId": 28,
+    "pk": 28,
+    "DateTime": "2025-01-07T12:39:45.549Z"
+  },
+  {
+    "AddOnService": "HOLES",
+    "AddOnRate": "0",
+    "UuId": 29,
+    "pk": 29,
+    "DateTime": "2025-01-07T12:39:58.467Z"
+  },
+  {
+    "AddOnService": "DAMAGE",
+    "AddOnRate": "0",
+    "UuId": 30,
+    "pk": 30,
+    "DateTime": "2025-01-07T12:40:24.195Z"
+  },
+  {
+    "AddOnService": "STARCH REMOVEL",
+    "AddOnRate": "0",
+    "UuId": 31,
+    "pk": 31,
+    "DateTime": "2025-01-07T12:40:51.860Z"
+  },
+  {
+    "AddOnService": "YELLOW STAINS",
+    "AddOnRate": "150",
+    "UuId": 32,
+    "pk": 32,
+    "DateTime": "2025-01-07T12:41:36.725Z"
+  },
+  {
+    "AddOnService": "HEAVY YELLOW STAINS",
+    "AddOnRate": "300",
+    "UuId": 33,
+    "pk": 33,
+    "DateTime": "2025-01-07T12:42:02.934Z"
+  },
+  {
+    "AddOnService": "BOX FOLDING",
+    "AddOnRate": "0",
+    "UuId": 34,
+    "pk": 34,
+    "DateTime": "2025-01-07T12:42:47.033Z"
+  },
+  {
+    "AddOnService": "FUNGES STAINS",
+    "AddOnRate": "150",
+    "UuId": 35,
+    "pk": 35,
+    "DateTime": "2025-01-07T12:43:16.967Z"
+  },
+  {
+    "AddOnService": "JEAN FOLDING",
+    "AddOnRate": "0",
+    "UuId": 36,
+    "pk": 36,
+    "DateTime": "2025-01-07T12:44:00.927Z"
+  },
+  {
+    "AddOnService": "BUBBLES",
+    "AddOnRate": "0",
+    "UuId": 37,
+    "pk": 37,
+    "DateTime": "2025-01-07T12:44:24.218Z"
+  },
+  {
+    "AddOnService": "FALL GAMAGE",
+    "AddOnRate": "0",
+    "UuId": 38,
+    "pk": 38,
+    "DateTime": "2025-01-07T12:44:46.857Z"
+  },
+  {
+    "AddOnService": "HEAVY CLOUR SPRED",
+    "AddOnRate": "350",
+    "UuId": 39,
+    "pk": 39,
+    "DateTime": "2025-01-07T12:45:29.824Z"
+  },
+  {
+    "AddOnService": "JARY ROUGH",
+    "AddOnRate": "0",
+    "UuId": 40,
+    "pk": 40,
+    "DateTime": "2025-01-07T12:45:48.321Z"
+  },
+  {
+    "AddOnService": "CALLAR DAMAGE",
+    "AddOnRate": "0",
+    "UuId": 41,
+    "pk": 41,
+    "DateTime": "2025-01-07T12:46:11.560Z"
+  },
+  {
+    "AddOnService": "HEAVY INK STAINS",
+    "AddOnRate": "350",
+    "UuId": 42,
+    "pk": 42,
+    "DateTime": "2025-01-07T12:46:54.656Z"
+  },
+  {
+    "AddOnService": "SHRINKED",
+    "AddOnRate": "0",
+    "UuId": 43,
+    "pk": 43,
+    "DateTime": "2025-01-07T12:47:10.029Z"
+  },
+  {
+    "AddOnService": "COVERED",
+    "AddOnRate": "0",
+    "UuId": 44,
+    "pk": 44,
+    "DateTime": "2025-01-07T12:47:51.060Z"
+  },
+  {
+    "AddOnService": "DARNING DAMAGE",
+    "AddOnRate": "0",
+    "UuId": 45,
+    "pk": 45,
+    "DateTime": "2025-01-07T12:48:22.043Z"
+  },
+  {
+    "AddOnService": "FALL CLOUR SPREAD",
+    "AddOnRate": "0",
+    "UuId": 46,
+    "pk": 46,
+    "DateTime": "2025-01-07T12:49:12.037Z"
+  },
+  {
+    "AddOnService": "HEAVY OIL STAINS",
+    "AddOnRate": "0",
+    "UuId": 47,
+    "pk": 47,
+    "DateTime": "2025-01-07T12:53:14.706Z"
+  },
+  {
+    "AddOnService": "CLOTH SHINING",
+    "AddOnRate": "0",
+    "UuId": 48,
+    "pk": 48,
+    "DateTime": "2025-01-07T13:00:13.199Z"
+  },
+  {
+    "AddOnService": "CHOCLATE STAINS",
+    "AddOnRate": "0",
+    "UuId": 49,
+    "pk": 49,
+    "DateTime": "2025-01-07T13:03:41.255Z"
+  },
+  {
+    "AddOnService": "ICE CREAM STAINS",
+    "AddOnRate": "0",
+    "UuId": 50,
+    "pk": 50,
+    "DateTime": "2025-01-07T13:05:49.064Z"
+  },
+  {
+    "AddOnService": "WORK DAMAGE",
+    "AddOnRate": "0",
+    "UuId": 51,
+    "pk": 51,
+    "DateTime": "2025-01-07T13:06:51.357Z"
+  },
+  {
+    "AddOnService": "DUST FOAM",
+    "AddOnRate": "0",
+    "UuId": 52,
+    "pk": 52,
+    "DateTime": "2025-01-07T13:07:27.142Z"
+  },
+  {
+    "AddOnService": "FOOD STAINS",
+    "AddOnRate": "0",
+    "UuId": 53,
+    "pk": 53,
+    "DateTime": "2025-01-07T13:15:06.315Z"
+  },
+  {
+    "AddOnService": "GUM STAINS",
+    "AddOnRate": "0",
+    "UuId": 54,
+    "pk": 54,
+    "DateTime": "2025-01-07T13:17:38.400Z"
+  },
+  {
+    "AddOnService": "NO REMARK",
+    "AddOnRate": "0",
+    "UuId": 55,
+    "pk": 55,
+    "DateTime": "2025-01-07T13:18:27.935Z"
+  },
+  {
+    "AddOnService": "STAINS",
+    "AddOnRate": "0",
+    "UuId": 56,
+    "pk": 56,
+    "DateTime": "2025-01-20T07:27:16.655Z"
+  },
+  {
+    "AddOnService": "sand marks",
+    "AddOnRate": "300",
+    "UuId": 57,
+    "pk": 57,
+    "DateTime": "2025-08-25T04:47:50.030Z"
+  },
+  {
+    "AddOnService": "sha",
+    "AddOnRate": "200",
+    "pk": 58
+  },
+  {
+    "AddOnService": "rough",
+    "AddOnRate": "0",
+    "pk": 59
+  }
+]

@@ -1,0 +1,13 @@
+POST http://localhost:3000/V5/MastersCustomers/Insert/SchemaColumnsOnly
+Content-Type: application/json
+
+{
+  "MastersCustomers": "",
+  "Mobile": "",
+  "DOB": "",
+  "GSTNumber": "",
+  "City": "",
+  "Occupation": "",
+  "CompanyName": "",
+  "BranchName": ""
+}

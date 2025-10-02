@@ -1,0 +1,6 @@
+POST http://localhost:3000/SV4/MastersItemTypes/Insert/SchemaColumnsOnly
+Content-Type: application/json
+
+{
+  "ItemType": ""
+}

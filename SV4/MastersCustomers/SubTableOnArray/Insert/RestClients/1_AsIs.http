@@ -1,0 +1,13 @@
+POST http://localhost:3000/SV4/MastersCustomers/SubTableOnArray/Insert/AsIs/{RowIndex}/{KeyName}
+Content-Type: application/json
+
+{
+  "MastersCustomers": "",
+  "Mobile": "",
+  "DOB": "",
+  "GSTNumber": "",
+  "City": "",
+  "Occupation": "",
+  "CompanyName": "",
+  "BranchName": ""
+}

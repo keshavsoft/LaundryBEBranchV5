@@ -1,0 +1,9 @@
+POST http://localhost:3000/SV5/UsersTable/Insert/BulkAsIs
+Content-Type: application/json
+
+[
+  {
+    "UserName": "",
+    "Password": ""
+  }
+]

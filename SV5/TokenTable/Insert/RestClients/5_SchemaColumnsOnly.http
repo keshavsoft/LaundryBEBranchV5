@@ -1,0 +1,6 @@
+POST http://localhost:3000/SV5/TokenTable/Insert/SchemaColumnsOnly
+Content-Type: application/json
+
+{
+  "Secret": ""
+}

@@ -1,0 +1,8 @@
+POST http://localhost:3000/SV4/MastersItemService/Insert/BulkAsIs
+Content-Type: application/json
+
+[
+  {
+    "ItemService": ""
+  }
+]

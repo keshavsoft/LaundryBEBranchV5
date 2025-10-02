@@ -1,0 +1,24 @@
+[
+  {
+    "QrCodeId": "1757",
+    "ItemName": "Women GOWN DW",
+    "Rate": "150",
+    "FactorySelected": "Vizag",
+    "VoucherRef": "1",
+    "BranchName": "KKD",
+    "VoucherNumber": "1",
+    "DCFactory": "undefined",
+    "DCDate": "2025-03-18",
+    "DCDescription": "zb",
+    "OrderNumber": "46",
+    "OrderDate": "2025-02-09T07:19:51.618Z",
+    "DeliveryDate": "2025-02-15",
+    "FactoryName": "Vizag",
+    "Description": "",
+    "ReWash": true,
+    "ReWashCount": 1,
+    "UuId": 1,
+    "pk": 1,
+    "DateTime": "2025-03-19T09:24:13.399Z"
+  }
+]

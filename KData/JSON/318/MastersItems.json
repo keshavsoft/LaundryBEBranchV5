@@ -1,0 +1,57 @@
+[
+  {
+    "Category": "Men",
+    "ItemType": "SHIRTE",
+    "Service": "DW",
+    "ItemName": "Men SHIRTE DW",
+    "Pcs": "1",
+    "DryWashRate": "60",
+    "UuId": 1,
+    "pk": 1,
+    "DateTime": "2025-08-14T05:50:16.788Z"
+  },
+  {
+    "Category": "Women",
+    "ItemType": "SHIRTE",
+    "Service": "DW",
+    "ItemName": "Women SHIRTE DW",
+    "Pcs": "1",
+    "DryWashRate": "70",
+    "UuId": 2,
+    "pk": 2,
+    "DateTime": "2025-08-14T08:04:38.649Z"
+  },
+  {
+    "Category": "Men",
+    "ItemType": "PATTU SAREE",
+    "Service": "CW",
+    "ItemName": "Men PATTU SAREE CW",
+    "Pcs": "1",
+    "DryWashRate": "50",
+    "UuId": 3,
+    "pk": 3,
+    "DateTime": "2025-08-25T04:49:57.230Z"
+  },
+  {
+    "Category": "Others",
+    "ItemType": "PYJAMA",
+    "Service": "PW",
+    "ItemName": "Others PYJAMA PW",
+    "Pcs": "100",
+    "DryWashRate": "20",
+    "UuId": 4,
+    "pk": 4,
+    "DateTime": "2025-08-25T06:57:56.605Z"
+  },
+  {
+    "Category": "Others",
+    "ItemType": "SHIRTE",
+    "Service": "DW",
+    "ItemName": "",
+    "Pcs": "70",
+    "DryWashRate": "700",
+    "UuId": 5,
+    "pk": 5,
+    "DateTime": "2025-08-25T07:08:06.682Z"
+  }
+]

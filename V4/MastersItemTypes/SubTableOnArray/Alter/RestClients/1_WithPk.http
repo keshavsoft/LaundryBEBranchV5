@@ -1,0 +1,6 @@
+POST http://localhost:3000/V4/MastersItemTypes/SubTableOnArray/Alter/WithPk/{RowPk}/{KeyName}/{pk}
+Content-Type: application/json
+
+{
+  "ItemType": ""
+}

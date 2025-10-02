@@ -1,0 +1,13 @@
+POST http://localhost:3000/V5/MastersCustomers/SubTable/Alter/WithPk/{RowPk}/{KeyName}/{pk}
+Content-Type: application/json
+
+{
+  "MastersCustomers": "",
+  "Mobile": "",
+  "DOB": "",
+  "GSTNumber": "",
+  "City": "",
+  "Occupation": "",
+  "CompanyName": "",
+  "BranchName": ""
+}
