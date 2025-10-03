@@ -25,10 +25,10 @@ git pull
 call npm run %CommonFolderName%
 call npm run %CommonBranchToday%
 
-xcopy .\publicDir\%CommonFolderName% ..\LaundryBEBranchV4\public\%NEXT_VERSION%\Branch\%CommonFolderName% /h /i /c /k /e /r /y
-xcopy .\publicDir\%CommonBranchToday% ..\LaundryBEBranchV4\public\%NEXT_VERSION%\Branch\%CommonBranchToday% /h /i /c /k /e /r /y
+xcopy .\publicDir\%CommonFolderName% ..\LaundryBEBranchV5\public\%NEXT_VERSION%\Branch\%CommonFolderName% /h /i /c /k /e /r /y
+xcopy .\publicDir\%CommonBranchToday% ..\LaundryBEBranchV5\public\%NEXT_VERSION%\Branch\%CommonBranchToday% /h /i /c /k /e /r /y
 
-cd ..\LaundryBEBranchV4
+cd ..\LaundryBEBranchV5
 
 exit /b
 

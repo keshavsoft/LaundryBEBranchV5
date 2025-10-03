@@ -1,0 +1,6 @@
+POST http://localhost:3000/Users/GenForBranch
+Content-Type: application/json
+
+{
+	"UserName":"Ongole","Password":9848163021
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "ItemsInOrder": {
+      "1": {
+        "Category": "Men",
+        "ItemName": "Men PATTU SAREE CW",
+        "ItemType": "PATTU SAREE",
+        "Rate": "50",
+        "Pcs": "10",
+        "Total": 500,
+        "location": "Vizag",
+        "DeliveryDateTime": "2025-10-10",
+        "ItemService": "CW",
+        "AddOnArray": [
+          {
+            "AddOnService": "CLOUR FADE",
+            "AddOnRate": 0,
+            "AddOnItemSerial": null
+          }
+        ],
+        "pk": 1,
+        "Fk": "1"
+      }
+    },
+    "CustomerData": {
+      "Mobile": "2222222222",
+      "UserName": "KKD",
+      "CustomerName": "prasad",
+      "DOB": "",
+      "GSTNumber": "",
+      "City": "",
+      "Occupation": ""
+    },
+    "OrderData": {
+      "BranchName": "Ongole",
+      "Mobile": "2222222222"
+    },
+    "AddOnData": {},
+    "CheckOutData": {
+      "1": {
+        "RoundOff": 0,
+        "CashAmount": 590,
+        "CardAmount": 0,
+        "UPIAmount": 0,
+        "DiscountPer": 0,
+        "GstData": {
+          "DiscountAmount": 0,
+          "CGST": 45,
+          "SGST": 45
+        },
+        "pk": 1,
+        "Fk": "1"
+      }
+    },
+    "pk": 1,
+    "ServerInsertedTimeStamp": "2025-10-03T09:16:00.578Z"
+  }
+]
