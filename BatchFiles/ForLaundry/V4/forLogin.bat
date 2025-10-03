@@ -23,9 +23,9 @@ git pull
 
 call npm run %CommonFolderName%
 
-xcopy .\publicDir\%CommonFolderName% ..\LaundryBEBranchV4\public\%NEXT_VERSION%\%CommonFolderName% /h /i /c /k /e /r /y
+xcopy .\publicDir\%CommonFolderName% ..\LaundryBEBranchV5\public\%NEXT_VERSION%\%CommonFolderName% /h /i /c /k /e /r /y
 
-cd ..\LaundryBEBranchV4
+cd ..\LaundryBEBranchV5
 
 exit /b
 
